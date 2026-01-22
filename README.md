@@ -4,3 +4,7 @@
 
 opis pierwszej sekcji
 
+\##sekcja 2
+
+opis drugiej sekcji
+
